@@ -1,0 +1,9 @@
+li {
+  display: inline-block;
+  /* margin: 0; */
+  /* padding: 0; */
+}
+.todo {
+  padding: 10px;
+  display: inline-block;
+}
